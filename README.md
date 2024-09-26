@@ -15,7 +15,7 @@
 ### Langkah 1: Clone Repository 
 
 ```
-git clone https://github.com/ucuyanti/ujikom
+git clone https://github.com/ucuyanti/ujikom.git
  ```
 
 ### Langkah 2: Pindah ke Direktori Proyek 
