@@ -2,7 +2,7 @@
 ![WhatsApp Image 2024-09-25 at 18 15 20](https://github.com/user-attachments/assets/b99124dc-1b4f-4c76-a626-e81110441378)
 
 # uml
-![Screenshot 2024-09-25 181537](https://github.com/user-attachments/assets/4a13d639-5aaa-4eca-b6c5-ab81395bb4cf)
+![umll](https://github.com/user-attachments/assets/8700b30c-d864-4a91-9546-f82c8bc965fa)
 # 1. Prasyarat 
 ### Pastikan perangkat Anda telah memenuhi prasyarat berikut sebelum menginstal Repository ini:
 
