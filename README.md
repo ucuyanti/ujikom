@@ -15,7 +15,7 @@
 ### Langkah 1: Clone Repository 
 
 ```
-git clone https://github.com/ririsk/riska1.git
+git clone https://github.com/ucuyanti/ujikom
  ```
 
 ### Langkah 2: Pindah ke Direktori Proyek 
