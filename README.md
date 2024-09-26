@@ -21,7 +21,7 @@ git clone https://github.com/ucuyanti/ujikom
 ### Langkah 2: Pindah ke Direktori Proyek 
 
 ```
-cd riska1
+cd ujikom
 ```
 - Setelah Itu Masuk Ke dalam Visual Studio Code
 
@@ -46,7 +46,7 @@ cp .env.example .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=db_riska
+DB_DATABASE=tokoskincare
 DB_USERNAME=root
 DB_PASSWORD=
 DB_COLLATION=utf8mb4_unicode_ci
